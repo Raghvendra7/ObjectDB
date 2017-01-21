@@ -15,6 +15,7 @@
 		99EB0E951E338E74000CF3B1 /* StoreBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99EB0E941E338E74000CF3B1 /* StoreBase.swift */; };
 		99EB0E971E338EF5000CF3B1 /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99EB0E961E338EF5000CF3B1 /* StorageManager.swift */; };
 		99EB0E991E338F58000CF3B1 /* ObjectTable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99EB0E981E338F58000CF3B1 /* ObjectTable.swift */; };
+		99EB0E9B1E3390DF000CF3B1 /* SelectionPredicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99EB0E9A1E3390DF000CF3B1 /* SelectionPredicate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		99EB0E941E338E74000CF3B1 /* StoreBase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = StoreBase.swift; path = Store/StoreBase.swift; sourceTree = "<group>"; };
 		99EB0E961E338EF5000CF3B1 /* StorageManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = StorageManager.swift; path = Store/StorageManager.swift; sourceTree = "<group>"; };
 		99EB0E981E338F58000CF3B1 /* ObjectTable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ObjectTable.swift; path = Store/ObjectTable.swift; sourceTree = "<group>"; };
+		99EB0E9A1E3390DF000CF3B1 /* SelectionPredicate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SelectionPredicate.swift; path = Store/SelectionPredicate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				99EB0E941E338E74000CF3B1 /* StoreBase.swift */,
 				99EB0E961E338EF5000CF3B1 /* StorageManager.swift */,
 				99EB0E981E338F58000CF3B1 /* ObjectTable.swift */,
+				99EB0E9A1E3390DF000CF3B1 /* SelectionPredicate.swift */,
 			);
 			path = ObjectDB;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				99EB0E851E338D63000CF3B1 /* ViewController.swift in Sources */,
 				99EB0E991E338F58000CF3B1 /* ObjectTable.swift in Sources */,
+				99EB0E9B1E3390DF000CF3B1 /* SelectionPredicate.swift in Sources */,
 				99EB0E951E338E74000CF3B1 /* StoreBase.swift in Sources */,
 				99EB0E831E338D63000CF3B1 /* AppDelegate.swift in Sources */,
 				99EB0E971E338EF5000CF3B1 /* StorageManager.swift in Sources */,
